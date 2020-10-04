@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mi/CLionProjects/Sort_strings/main.c
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+io.h
+-
+stdio.h
+-
+errno.h
+-
+fcntl.h
+-
+
