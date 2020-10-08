@@ -1,3 +1,1 @@
-C:\Users\mi\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Sort_strings.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Sort_strings.dir/objects.a @CMakeFiles\Sort_strings.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Sort_strings.dir/objects.a -Wl,--no-whole-archive  -o Sort_strings.exe -Wl,--out-implib,libSort_strings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sort_strings.dir\linklibs.rsp
+/usr/bin/cc -g   CMakeFiles/Sort_strings.dir/main.c.o CMakeFiles/Sort_strings.dir/sortingLibrary.c.o CMakeFiles/Sort_strings.dir/testLibrary.c.o CMakeFiles/Sort_strings.dir/fileLibrary.c.o  -o Sort_strings 

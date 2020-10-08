@@ -1,0 +1,20 @@
+Default Text:
+
+Ehal
+Greka
+Cherez
+Reku
+
+Sorted strings:
+
+Cherez
+Ehal
+Greka
+Reku
+
+Reverse-sorted strings:
+
+Greka
+Ehal
+Reku
+Cherez

@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/mi/CLionProjects/Sort_strings/main.c" "C:/Users/mi/CLionProjects/Sort_strings/cmake-build-debug/CMakeFiles/Sort_strings.dir/main.c.obj"
+  "/home/ilya/Sort_strings_make_rhythm/fileLibrary.c" "/home/ilya/Sort_strings_make_rhythm/cmake-build-debug/CMakeFiles/Sort_strings.dir/fileLibrary.c.o"
+  "/home/ilya/Sort_strings_make_rhythm/main.c" "/home/ilya/Sort_strings_make_rhythm/cmake-build-debug/CMakeFiles/Sort_strings.dir/main.c.o"
+  "/home/ilya/Sort_strings_make_rhythm/sortingLibrary.c" "/home/ilya/Sort_strings_make_rhythm/cmake-build-debug/CMakeFiles/Sort_strings.dir/sortingLibrary.c.o"
+  "/home/ilya/Sort_strings_make_rhythm/testLibrary.c" "/home/ilya/Sort_strings_make_rhythm/cmake-build-debug/CMakeFiles/Sort_strings.dir/testLibrary.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,9 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Sort_strings.dir/main.c.obj"
-  "Sort_strings.exe"
-  "Sort_strings.exe.manifest"
+  "CMakeFiles/Sort_strings.dir/fileLibrary.c.o"
+  "CMakeFiles/Sort_strings.dir/main.c.o"
+  "CMakeFiles/Sort_strings.dir/sortingLibrary.c.o"
+  "CMakeFiles/Sort_strings.dir/testLibrary.c.o"
+  "Sort_strings"
   "Sort_strings.pdb"
-  "libSort_strings.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
